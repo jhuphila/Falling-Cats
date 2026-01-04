@@ -70,6 +70,7 @@ falling-cats/
 ## Credits
 
 - Inspired by Animal Jam's Falling Phantoms minigame
+- Audio and sprite assets sourced from free online resources
 - Built as a personal project to learn game development with Pygame
 
 
